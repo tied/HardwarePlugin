@@ -4,4 +4,3 @@ amps-standalone/
 target/
 .DS_Store
 src/test/resources/generated-resources/
-
